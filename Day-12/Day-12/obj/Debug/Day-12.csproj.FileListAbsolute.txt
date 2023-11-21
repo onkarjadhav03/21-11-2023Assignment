@@ -1,0 +1,7 @@
+D:\mphasis\dotnet\Day-12\Day-12\bin\Debug\Day-12.exe.config
+D:\mphasis\dotnet\Day-12\Day-12\bin\Debug\Day-12.exe
+D:\mphasis\dotnet\Day-12\Day-12\bin\Debug\Day-12.pdb
+D:\mphasis\dotnet\Day-12\Day-12\obj\Debug\Day-12.csproj.AssemblyReference.cache
+D:\mphasis\dotnet\Day-12\Day-12\obj\Debug\Day-12.csproj.CoreCompileInputs.cache
+D:\mphasis\dotnet\Day-12\Day-12\obj\Debug\Day-12.exe
+D:\mphasis\dotnet\Day-12\Day-12\obj\Debug\Day-12.pdb
